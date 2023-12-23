@@ -7,7 +7,7 @@
 </h1>
 
 ### 👨‍💻 About Me :
- :telescope: I’m currently working as a Software Developer in BESS/ AB Inbev.
+ :telescope: I’m currently working as a Software Developer in BEES/ AB Inbev.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandomorato/)
 
