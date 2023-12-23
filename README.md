@@ -2,16 +2,12 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h1 align="center">
-  Hello, i'm Fernando Morato, a full stack Java/React developer
+  Hello, i'm Fernando Morato, a Java developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ### 👨‍💻 About Me :
-- :telescope: I’m currently working as a Software Developer in [Elotech](https://www.elotech.com.br/), where i develop applications for public management, on the arrecadation team (developing software for taxes and payments).
-
-- :seedling: Currently studing Java and Javascript.
-
-- :book: Currently reading "Clean Code" and "Clean Architecture".
+ :telescope: I’m currently working as a Software Developer in BESS/ AB Inbev.
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandomorato/)
 
